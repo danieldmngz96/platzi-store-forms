@@ -9,6 +9,7 @@ import { CategoriesComponent } from './components/categories/categories.componen
 import { CategoryFormComponent } from './components/category-form/category-form.component';
 
 
+
 @NgModule({
   declarations: [CategoriesComponent, CategoryFormComponent],
   imports: [
